@@ -25,4 +25,4 @@ En la anterior tabla se puede observar la matriz de confusión, donde se muestra
 - Seleccionar adecuadamente el algoritmo que se utilizara para dar solución a la problemática es muy importante, ya que como se pudo observar al hacer la comparación los resultados pueden variar bastante. 
 
 ## Link al video de YouTube:
-- 
+- https://youtu.be/pTK3Ad0DHk4
