@@ -14,7 +14,7 @@
 ## Resultados
 - Tabla de los resultados de las mediciones para cada modelo.
 ![Tabla2](https://user-images.githubusercontent.com/88201271/171976921-447fd973-5eb0-45d5-8210-e566246f104d.PNG)
-Tal como se puede observar en la tabla se obtuvo que el mejor modelo para dar solución a la problemática es Random Forest el cual se seleccionó, sin embargo, también hay métodos con buenos resultados como lo son knnvecinos más cercanos y máquinas de vectores de soporte. Por otro lado, el peor método en este caso para dar solución al problema es Naive Bayes.
+Tal como se puede observar en la tabla se obtuvo que el mejor modelo para dar solución a la problemática es Random Forest el cual se seleccionó, sin embargo, también hay métodos con buenos resultados como lo son knnvecinos más cercanos. Por otro lado, el peor método en este caso para dar solución al problema es Naive Bayes.
 
 - Matriz de confusión.
 ![Tabla1](https://user-images.githubusercontent.com/88201271/171976937-36c0f88e-ca66-4271-af8c-1e1242017b50.png)
